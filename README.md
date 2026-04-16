@@ -14,7 +14,8 @@ We introduce the **Rule Override Score (ROS)**, a strict, exact-string-match met
 
 <img width="8601" height="5734" alt="Corrupted Conway&#39;s game of life mutations" src="https://github.com/user-attachments/assets/fcc04264-f763-4882-8f84-552105f8e4db" />
 
-<img width="1536" height="1024" alt="Conway&#39;s Game of Life infographic" src="https://github.com/user-attachments/assets/8ca05646-e784-46b5-a999-1255bc4a9a58" />
+<img width="1024" height="1536" alt="Corrupted Game of Life mutations" src="https://github.com/user-attachments/assets/e93a69b1-3550-46dd-bec0-3de3c1fb379c" />
+
 
 
 
