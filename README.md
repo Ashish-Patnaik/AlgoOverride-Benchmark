@@ -12,6 +12,12 @@ Current LLMs easily ace standard programming evaluations, but this often masks a
 
 We introduce the **Rule Override Score (ROS)**, a strict, exact-string-match metric that measures a model's cognitive flexibility and ability to abandon memorized heuristics.
 
+<img width="8601" height="5734" alt="Corrupted Conway&#39;s game of life mutations" src="https://github.com/user-attachments/assets/fcc04264-f763-4882-8f84-552105f8e4db" />
+
+<img width="1536" height="1024" alt="Conway&#39;s Game of Life infographic" src="https://github.com/user-attachments/assets/8ca05646-e784-46b5-a999-1255bc4a9a58" />
+
+
+
 ## 📂 Repository Structure
 
 * `dataset_generator.py` - The Python script used to procedurally generate the 600 synthetic benchmark tasks, including the 150 "Pattern Trap" adversarial tasks.
