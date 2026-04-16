@@ -1,7 +1,7 @@
 # AlgoOverride: Measuring LLM Inhibitory Control via Corrupted Cellular Automata
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Hackathon_Submission-blue.svg)](https://www.kaggle.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Hackathon_Submission-blue.svg)](https://www.kaggle.com/competitions/kaggle-measuring-agi/overview)
 
 This repository contains the dataset generator, evaluation scripts, and benchmark data for **AlgoOverride**, a novel AI evaluation framework designed to measure *inhibitory control* in Large Language Models (LLMs).
 
